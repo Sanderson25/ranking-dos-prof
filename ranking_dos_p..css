@@ -12,6 +12,9 @@ text-decoration:underline overline;
 p{
     background-color: black;
 }
-h1{
-    font-size: 50px;
+h1 {
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
+
