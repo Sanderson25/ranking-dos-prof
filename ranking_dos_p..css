@@ -10,11 +10,12 @@ li{
 text-decoration:underline overline;
 }
 p{
+    font-family: Anta;
     background-color: black;
 }
 h1 {
   font-family: Anta;
-  font-weight: 400;
+  font-weight: 600;
   font-style: normal;
 }
 
