@@ -11,6 +11,7 @@ text-decoration:underline overline;
 }
 p{
     font-family: Anta;
+    font-weight: 600;
     font-style: normal;
 }
 h1 {
